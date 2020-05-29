@@ -1,0 +1,1 @@
+alert('Precaución, esta página no es un sitio real, únicamente es un proyecto, por lo tanto no me hago responsable si decide ingresar información personal');
